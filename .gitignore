@@ -11,3 +11,5 @@
 /build
 /captures
 .externalNativeBuild
+ #folder to not ignore
+ !/application's APK and info files/APK/.*apk
